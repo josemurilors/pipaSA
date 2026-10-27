@@ -1,0 +1,9 @@
+# gerados / extraidos do jogo (nao redistribuir)
+work/
+icons/icon-work/
+__pycache__/
+*.pyc
+assets/*.bgra
+# copias de arquivos do jogo ou de packs de terceiros: gere localmente (ver README)
+modloader/PipaSA/data/gta.dat
+modloader/zz_PipaSA_HUD/models/hud.txd

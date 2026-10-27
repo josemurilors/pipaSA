@@ -1,0 +1,10 @@
+objs
+19100, pipasa_kite_red, pipasa_kite, 299.0, 0
+19101, pipasa_kite_blue, pipasa_kite, 299.0, 0
+19102, pipasa_kite_yellow, pipasa_kite, 299.0, 0
+19103, pipasa_kite_green, pipasa_kite, 299.0, 0
+19104, pipasa_bow_red, pipasa_kite, 299.0, 0
+19105, pipasa_bow_yellow, pipasa_kite, 299.0, 0
+19106, pipasa_bow_blue, pipasa_kite, 299.0, 0
+19107, pipasa_reel, pipasa_kite, 299.0, 0
+end
