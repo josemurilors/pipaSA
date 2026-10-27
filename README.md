@@ -19,6 +19,7 @@
 | **Versão** | 0.1 |
 | **Estado** | Protótipo jogável: modelos, spots, props, animações e ícone funcionam no jogo; as mudanças mais recentes (corpo do CJ virando para a pipa, pipa pequena na mão) ainda não foram testadas |
 | **Contexto** | Projeto pessoal, inspirado no jogo *CS Diamantes Pipas* (ver [engenharia reversa](docs/engenharia-reversa.md)) |
+| **Licença** | [MIT](LICENSE) |
 | **Alvo** | GTA San Andreas 1.0 US (HOODLUM, exe de 14.383.616 bytes) com MoonLoader e Mod Loader |
 
 > **Limite principal:** feito e testado em **uma** instalação (a do autor). Coordenadas dos spots são aproximadas, o jogo online do original (loja, ranking, voz) não existe aqui, e nada foi testado em outras versões do GTA SA.
@@ -184,5 +185,6 @@ Os modelos gerados já estão versionados em `modloader/PipaSA`, então só rege
 | --- | --- | --- |
 | José Murilo R. Sabalo | autor | [@josemurilors](https://github.com/josemurilors) |
 
-<!-- TODO: licença (escolher uma antes de divulgar o projeto) -->
+Licença: [MIT](LICENSE). O código e os modelos gerados são do autor; a licença não cobre o GTA San Andreas nem arquivos de packs de terceiros que você usar localmente.
+
 GTA San Andreas é marca da Rockstar Games; este projeto não é afiliado a ela. *CS Diamantes Pipas* é de seus respectivos autores; nenhum asset do jogo foi copiado.
